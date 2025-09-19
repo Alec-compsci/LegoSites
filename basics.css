@@ -1,0 +1,26 @@
+header{
+    height: 100px;
+    width: 800px;
+    background-color: #f00;
+}
+
+header img{
+    float: left;
+    margin: 8px 12px;
+    height: 80px;
+}
+
+nav img{
+    width: 50;
+    height: 72;
+}
+
+
+nav{
+    margin-top: 10px;
+    height: 80px;
+    width: 450px;
+    background-color: white;
+    float: right;
+    margin-right: 10px;
+}

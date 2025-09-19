@@ -1,0 +1,53 @@
+
+header{
+    height: 100px;
+    width: 800px;
+    background-color: #f00;
+}
+
+header img{
+    float: left;
+    margin: 8px 12px;
+    height: 80px;
+}
+
+nav img{
+    width: 50;
+    height: 72;
+}
+
+
+nav{
+    margin-top: 10px;
+    height: 80px;
+    width: 450px;
+    background-color: white;
+    float: right;
+    margin-right: 10px;
+}
+
+section{
+    width: 800px;
+    overflow: auto;
+}
+
+aside{
+    width: 126px;
+    height: 300px;
+    float: left;
+    background-color: #00f;
+}
+
+article{
+    width: 654px;
+    height: 280px;
+    overflow: auto;
+    background-color: #ff0;
+    padding: 10px;
+}
+
+footer{
+    height: 30px;
+    width: 800px;
+    background-color: #0f0;
+}
